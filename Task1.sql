@@ -3,7 +3,9 @@
 --Task 1
 Create Database Courier
 go 
-
+Use Courier
+go
+ 
 CREATE TABLE Users (
 UserID INT Primary Key,
 NAME VARCHAR(255),
